@@ -1,0 +1,13 @@
+ul.bne-navbar-nav {
+    display:flex;
+    list-style:none;
+    margin: auto;
+
+    &>li.bne-nav-item {
+        margin: 0 0 0 13px;
+
+        &>a {
+            color: #6c757d;
+        }
+    }
+}
